@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
   header: {
     flexDirection: "row",
     justifyContent: "start",
-    padding: 8,
+    padding: 7,
   },
   backButton: {
     backgroundColor: "#facc15", // Placeholder for yellow-400
